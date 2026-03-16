@@ -54,7 +54,7 @@ function Home() {
           <h1 className="text-5xl font-black bg-gradient-to-r from-emerald-400 to-cyan-500 bg-clip-text text-transparent mb-4 drop-shadow-[0_0_15px_rgba(52,211,153,0.3)]">
             🎬 Film Listem
           </h1>
-          {/* İSTEDİĞİN DEĞİŞİKLİK BURADA: */}
+          
           <p className="text-xl text-slate-400 font-medium">Favori filmlerini ekle!</p>
           
           <div className="mt-4 text-sm text-emerald-400 bg-slate-800 px-6 py-2 rounded-full inline-block shadow-lg border border-slate-700">
