@@ -1,5 +1,6 @@
 # 🎬 Film Listem (React CRUD Uygulaması)
 
+![Uygulama Ekran Görüntüsü](busra-atmaca-movie-list.netlify.png)
 React ve Tailwind CSS kullanılarak geliştirilmiş, LocalStorage destekli modern bir film listeleme uygulaması.
 
 ## 🚀 Özellikler
